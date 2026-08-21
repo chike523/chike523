@@ -1,2 +1,1 @@
-OVERKIIL 👾
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am Overk!!l;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+Am+Overkiil+%F0%9F%91%BE;and+I+Build+Whatever!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
